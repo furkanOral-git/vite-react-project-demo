@@ -1,0 +1,114 @@
+
+.section {
+
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4em 0;
+    position: relative;
+
+    &__followOnInsta {
+        height: 150px;
+        position: absolute;
+        top: -70px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        
+    }
+
+    &__instagramBtn {
+        align-self: center;
+        height: 40px;
+        width: 150px;
+    }
+
+    &__hashtag {
+        align-self: center;
+        opacity: .9;
+        font-size: 25px;
+        font-weight: 800;
+        letter-spacing: 2px;
+
+    }
+
+    &__instagram {
+        color:$--font-color-smooth;
+        opacity: .9;
+        font-size: 12px;
+        display: block;
+        margin-top: 15px;
+        margin-bottom: 20px;
+    }
+
+    &__item {
+
+        position: relative;
+        margin-right: 2em;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+
+        &:last-child {
+            margin-right: 0;
+        }
+
+        &-img {
+
+            width: 100%;
+        }
+
+        &-container {
+
+            position: absolute;
+            align-self: flex-end;
+            text-align: center;
+            line-height: 45px;
+            height: 100px;
+            width: 100%;
+
+        }
+
+        &-shop {
+
+            position: relative;
+            font-size: 1em;
+            font-weight: 500;
+            letter-spacing: 1px;
+            text-align: center;
+            color: black;
+            opacity: .8;
+            background-color: transparent;
+            padding-bottom: 5px;
+
+            &::after {
+
+                content: '';
+                position: absolute;
+                height: 1px;
+                bottom: -5%;
+                left: 1.5%;
+                opacity: inherit;
+                width: 95%;
+                background-color: #000;
+                transform: scale(1, 1);
+                transition: 300ms transform ease;
+            }
+
+            &:hover {
+                cursor: pointer;
+            }
+
+            &:hover::after {
+                transform: scale(1.2, 1);
+            }
+        }
+
+        &-head {
+            font-size: 24px;
+
+        }
+    }
+}

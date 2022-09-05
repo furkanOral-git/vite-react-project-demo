@@ -1,0 +1,141 @@
+[
+    {
+        "id": 1,
+        "name": "Men's Watch",
+        "hasSubs": true,
+        "styles": [
+            "Classic",
+            "Digital",
+            "Chronograph",
+            "Oversized",
+            "Automatic"
+        ],
+        "use": [
+            "Surf & Tide",
+            "Sports & Fitness",
+            "Waterproof/ Resistant"
+        ],
+        "trending": [
+            "Sustainable Watches",
+            "Rose Gold Watches",
+            "Gold Watches",
+            "Stainless Steel Watches",
+            "Leather Watches",
+            "Black Watches",
+            "Blue Watches"
+        ],
+        "collaborations": [
+            "Grateful Dead",
+            "Independent"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Women's Watch",
+        "hasSubs": true,
+        "styles": [
+            "Classic",
+            "Digital"
+        ],
+        "use": [
+            "Surf & Tide",
+            "Sports & Fitness",
+            "Waterproof/ Resistant"
+        ],
+        "trending": [
+            "Sustainable Watches",
+            "Rose Gold Watches",
+            "Gold Watches",
+            "Stainless Steel Watches",
+            "Leather Watches",
+            "Black Watches",
+            "Blue Watches"
+        ],
+        "collaborations": [
+            "Grateful Dead",
+            "Independent"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Bags",
+        "hasSubs": true,
+        "styles": [
+            "Backpacks",
+            "Duffel Bags",
+            "Crossbodies & Totes",
+            "Hip Packs"
+        ],
+        "use": [
+            "Travel",
+            "Skate",
+            "Surf"
+        ],
+        "collaborations": [
+            "Grateful Dead",
+            "REPREVE® Our Ocean"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Headwear",
+        "hasSubs": true,
+        "fits": [
+            "Shallow",
+            "Semi-Deep",
+            "Deep"
+        ],
+        "styles": [
+            "5-Panel",
+            "Beanie",
+            "Bucket",
+            "Flexfit",
+            "Full Brim",
+            "Snapback",
+            "Trucker"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Clothing & Accessories",
+        "hasSubs": true,
+        "clothing": [
+            "Sweatshirts",
+            "T-Shirts"
+        ],
+        "accessories": [
+            "Wallets",
+            "Belts",
+            "Other Accessories",
+            "Face Masks"
+        ],
+        "trending": [
+            "Sustainable Clothing & Accessories"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Bands",
+        "hasSubs": true,
+        "bandsize": [
+            "16mm",
+            "20mm",
+            "23mm"
+        ],
+        "bandmaterial": [
+            "Leather",
+            "Rubber",
+            "Sustainable"
+        ],
+        "bandtype": [
+            "NATO",
+            "Quick Release"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Custom",
+        "hasSubs":false
+    }
+    
+]

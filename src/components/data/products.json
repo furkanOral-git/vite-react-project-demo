@@ -1,0 +1,94 @@
+[
+    {
+        "productId": 1,
+        "name": "51-30 Chrono",
+        "categoryId": 1,
+        "tag": "New Color",
+        "varieties": [
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-000-view1_500x.png?v=1639584419",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-897-view1_500x.png?v=1639584432",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-2871-view1_500x.png?v=1639584424",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-5001-view1_500x.png?v=1639584428",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A099-502-view1_500x.png?v=1639584438"
+        ],
+        "price": "$500.000"
+    },
+    {
+        "productId": 2,
+        "name": "51-30 Chrono",
+        "categoryId": 1,
+        "tag": "New Color",
+        "varieties": [
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-000-view1_500x.png?v=1639584419",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-897-view1_500x.png?v=1639584432",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-2871-view1_500x.png?v=1639584424",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-5001-view1_500x.png?v=1639584428"
+        ],
+        "price": "$500.000"
+    },
+    {
+        "productId": 3,
+        "name": "51-30 Chrono",
+        "categoryId": 1,
+        "tag": "New Color",
+        "varieties": [
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-000-view1_500x.png?v=1639584419",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-897-view1_500x.png?v=1639584432",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-2871-view1_500x.png?v=1639584424",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-5001-view1_500x.png?v=1639584428"
+        ],
+        "price": "$500.000"
+    },
+    {
+        "productId": 4,
+        "name": "51-30 Chrono",
+        "categoryId": 1,
+        "tag": "New Color",
+        "varieties": [
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-000-view1_500x.png?v=1639584419",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-897-view1_500x.png?v=1639584432",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-2871-view1_500x.png?v=1639584424",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-5001-view1_500x.png?v=1639584428"
+        ],
+        "price": "$500.000"
+    },
+    {
+        "productId": 5,
+        "name": "51-30 Chrono",
+        "categoryId": 1,
+        "tag": "New Color",
+        "varieties": [
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-000-view1_500x.png?v=1639584419",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-897-view1_500x.png?v=1639584432",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-2871-view1_500x.png?v=1639584424",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-5001-view1_500x.png?v=1639584428"
+        ],
+        "price": "$500.000"
+    },
+    {
+        "productId": 6,
+        "name": "51-30 Chrono",
+        "categoryId": 1,
+        "tag": "New Color",
+        "varieties": [
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-000-view1_500x.png?v=1639584419",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-897-view1_500x.png?v=1639584432",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-2871-view1_500x.png?v=1639584424",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-5001-view1_500x.png?v=1639584428"
+        ],
+        "price": "$500.000"
+    },
+    {
+        "productId": 7,
+        "name": "51-30 Chrono",
+        "categoryId": 1,
+        "tag": "New Color",
+        "varieties": [
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-000-view1_500x.png?v=1639584419",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-897-view1_500x.png?v=1639584432",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-2871-view1_500x.png?v=1639584424",
+            "https://cdn.shopify.com/s/files/1/0541/0272/0705/products/A083-5001-view1_500x.png?v=1639584428"
+        ],
+        "price": "$500.000"
+    }
+]

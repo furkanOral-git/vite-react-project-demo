@@ -1,0 +1,16 @@
+@import "./public/variables.scss";
+@import "./public/reset.scss";
+@import "./public/contents.scss";
+@import "./public/header.scss";
+@import "./public/footer.scss";
+
+
+@keyframes pulse {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
